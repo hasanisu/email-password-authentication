@@ -10,4 +10,6 @@ set event.parameter
 event.target.email.value 
 
 
+
+regular expreesion- for validation of password 
 */
